@@ -1,0 +1,68 @@
+[
+  {
+    "text": "Api-examples",
+    "link": "/api-examples"
+  },
+  {
+    "text": "Markdown-examples",
+    "link": "/markdown-examples"
+  },
+  {
+    "text": "Pages",
+    "collapsible": true,
+    "items": [
+      {
+        "text": "Get started",
+        "collapsible": true,
+        "items": [
+          {
+            "text": "Getting-started",
+            "link": "/Pages/get started/getting-started"
+          }
+        ]
+      },
+      {
+        "text": "Legal",
+        "link": "/Pages/legal"
+      },
+      {
+        "text": "License",
+        "link": "/Pages/license"
+      },
+      {
+        "text": "Template",
+        "link": "/Pages/template"
+      }
+    ],
+    "link": "/Pages/"
+  },
+  {
+    "text": "Platform",
+    "collapsible": true,
+    "items": [
+      {
+        "text": "Authorization",
+        "link": "/Platform/authorization"
+      },
+      {
+        "text": "Session",
+        "collapsible": true,
+        "items": [
+          {
+            "text": "Check validation",
+            "link": "/Platform/session/check validation"
+          },
+          {
+            "text": "Persistence",
+            "link": "/Platform/session/persistence"
+          },
+          {
+            "text": "Sign in",
+            "link": "/Platform/session/sign in"
+          }
+        ]
+      }
+    ],
+    "link": "/Platform/"
+  }
+]
